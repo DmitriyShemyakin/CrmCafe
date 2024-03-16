@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CrmCafe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CrmCafe_jar</output-path>
+    <root id="archive" name="CrmCafe.jar">
+      <element id="module-output" name="CrmCafe" />
+    </root>
+  </artifact>
+</component>
